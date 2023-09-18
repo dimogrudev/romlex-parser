@@ -1,0 +1,51 @@
+adj - adjective
+adv - adverb
+art - article
+aux - auxiliary
+card - cardinal
+caus - causal
+comp - comparative
+conj - conjunction
+cop - copula
+def - definite
+dem - demonstrative
+f - feminine
+foc - focus
+fract - fractal
+fut - future
+gen - general
+grad - gradual
+indef - indefinite
+int - interrogative
+interj - interjection
+itr - intransitive
+loc - local
+m - masculine
+mod - modal
+mult - multiple
+n - noun
+narr - narrative
+neg - negation
+num - numeral
+opt - optative
+ord - ordinal
+part - particle
+partv - particle verb
+phr - phrase
+pl - plural
+pp - present active participle
+ppp - past passive participle
+pref - prefix
+prefv - prefix verb
+prep - preposition
+pron - pronoun
+qual - qualitative
+quot - quotative
+recip - reciprocal
+rel - relative
+sg - singular
+subj - subjunctive
+sup - superlative
+temp - temporal
+tr - transitive
+vb - verbal
