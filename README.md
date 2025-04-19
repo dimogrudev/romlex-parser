@@ -1,5 +1,5 @@
 # ROMLEX Parser
-A PowerShell parser of ROMLEX Lexical Database.
+A PowerShell parser of ROMLEX lexical database.
 
 ## What Is ROMLEX?
 ROMLEX is a lexical database of Romani language. It contains representative data of lexicon variation of all Romani dialects, and offers almost complete coverage of basic lexicon of the language.
